@@ -1,0 +1,24 @@
+git init
+	iniciar repo
+git add <file> o . para todos los arrchivosa
+	aggregar archivo working directory a stading area
+git status
+	estado estan los archivos
+git commint -m "un mensaje"
+	para cambiar el estado del stading area al repository
+git push
+	subir archivo a un repo remoto
+git pull
+	bajar los cambios de un repo remoto
+git clone
+	clona del repo remoto al local
+git checkout <file>
+	descartar cambios del archivo
+git diff <file>
+	muestra las diferencias entre version del repo y la actual
+git branch
+	para versiones alternativas del codigo
+git branch <un nombre>
+	crea una rama del codigo
+git checkout <rama>
+	para seleccionar la rama
