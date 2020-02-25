@@ -4,7 +4,7 @@ git add <file> o . para todos los arrchivosa
 	aggregar archivo working directory a stading area
 git status
 	estado estan los archivos
-git commint -m "un mensaje"
+git commit -m "un mensaje"
 	para cambiar el estado del stading area al repository
 git push
 	subir archivo a un repo remoto
@@ -22,3 +22,4 @@ git branch <un nombre>
 	crea una rama del codigo
 git checkout <rama>
 	para seleccionar la rama
+git remote add origin git@github.com:Ramon-Arias25/practicaGit.git
